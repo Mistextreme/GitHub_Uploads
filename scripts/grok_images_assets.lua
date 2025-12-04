@@ -1,0 +1,15 @@
+return {
+    ["Generated Image December 03, 2025 - 8_09PM"] = { label = "Generated Image December 03, 2025 - 8_09PM", image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/images/Grok/1764864689241_Generated_Image_December_03__2025_-_8_09PM.png" },
+    ["Generated Image December 03, 2025 - 8_05PM"] = { label = "Generated Image December 03, 2025 - 8_05PM", image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/images/Grok/1764864691239_Generated_Image_December_03__2025_-_8_05PM.png" },
+    ["IMG_20251203_195803"] = { label = "IMG_20251203_195803", image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/images/Grok/1764864692902_IMG_20251203_195803.png" },
+    ["IMG_20251203_195658"] = { label = "IMG_20251203_195658", image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/images/Grok/1764864694347_IMG_20251203_195658.png" },
+    ["Generated Image December 03, 2025 - 7_54PM"] = { label = "Generated Image December 03, 2025 - 7_54PM", image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/images/Grok/1764864697182_Generated_Image_December_03__2025_-_7_54PM.png" },
+    ["Generated Image December 03, 2025 - 7_44PM"] = { label = "Generated Image December 03, 2025 - 7_44PM", image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/images/Grok/1764864698948_Generated_Image_December_03__2025_-_7_44PM.png" },
+    ["Generated Image December 03, 2025 - 7_47PM"] = { label = "Generated Image December 03, 2025 - 7_47PM", image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/images/Grok/1764864700724_Generated_Image_December_03__2025_-_7_47PM.png" },
+    ["1764790566"] = { label = "1764790566", image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/images/Grok/1764864702432_1764790566.png" },
+    ["Generated Image December 03, 2025 - 7_32PM"] = { label = "Generated Image December 03, 2025 - 7_32PM", image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/images/Grok/1764864704107_Generated_Image_December_03__2025_-_7_32PM.png" },
+    ["Generated Image December 03, 2025 - 7_30PM"] = { label = "Generated Image December 03, 2025 - 7_30PM", image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/images/Grok/1764864706439_Generated_Image_December_03__2025_-_7_30PM.png" },
+    ["Generated Image December 03, 2025 - 7_26PM"] = { label = "Generated Image December 03, 2025 - 7_26PM", image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/images/Grok/1764864708113_Generated_Image_December_03__2025_-_7_26PM.png" },
+    ["1764789229"] = { label = "1764789229", image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/images/Grok/1764864709861_1764789229.png" },
+    ["Github-Logo-PNG-Picture-2717027612"] = { label = "Github-Logo-PNG-Picture-2717027612", image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/images/Grok/1764864711464_Github-Logo-PNG-Picture-2717027612.png" }
+}
