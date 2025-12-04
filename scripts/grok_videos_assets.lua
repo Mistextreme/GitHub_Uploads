@@ -1,0 +1,9 @@
+return {
+    ["grok_video_2025-12-03-20-13-30"] = { label = "grok_video_2025-12-03-20-13-30", video = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/videos/Grok/1764864619665_grok_video_2025-12-03-20-13-30.mp4" },
+    ["grok_video_2025-12-03-20-10-48"] = { label = "grok_video_2025-12-03-20-10-48", video = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/videos/Grok/1764864622083_grok_video_2025-12-03-20-10-48.mp4" },
+    ["grok_video_2025-12-03-20-10-33"] = { label = "grok_video_2025-12-03-20-10-33", video = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/videos/Grok/1764864624217_grok_video_2025-12-03-20-10-33.mp4" },
+    ["grok_video_2025-12-03-19-36-02"] = { label = "grok_video_2025-12-03-19-36-02", video = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/videos/Grok/1764864626000_grok_video_2025-12-03-19-36-02.mp4" },
+    ["grok_video_2025-12-03-19-33-54"] = { label = "grok_video_2025-12-03-19-33-54", video = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/videos/Grok/1764864628121_grok_video_2025-12-03-19-33-54.mp4" },
+    ["grok_video_2025-12-03-19-22-51"] = { label = "grok_video_2025-12-03-19-22-51", video = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/videos/Grok/1764864630124_grok_video_2025-12-03-19-22-51.mp4" },
+    ["grok_video_2025-12-03-19-18-34"] = { label = "grok_video_2025-12-03-19-18-34", video = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/videos/Grok/1764864632205_grok_video_2025-12-03-19-18-34.mp4" }
+}
