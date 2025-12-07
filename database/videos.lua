@@ -59,5 +59,61 @@ return {
     ["1764864632205_grok_video_2025-12-03-19-18-34"] = {
         label = "1764864632205_grok_video_2025-12-03-19-18-34",
         video = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/videos/Grok/1764864632205_grok_video_2025-12-03-19-18-34.mp4"
+    },
+    ["grok_video_2025-12-07-13-30-37_new"] = {
+        label = "grok_video_2025-12-07-13-30-37_new",
+        video = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/images/Grok/2025/12/07/grok_video_2025-12-07-13-30-37.mp4"
+    },
+    ["grok_video_2025-12-07-13-35-26_new"] = {
+        label = "grok_video_2025-12-07-13-35-26_new",
+        video = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/images/Grok/2025/12/07/grok_video_2025-12-07-13-35-26.mp4"
+    },
+    ["grok_video_2025-12-07-13-40-38_new"] = {
+        label = "grok_video_2025-12-07-13-40-38_new",
+        video = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/images/Grok/2025/12/07/grok_video_2025-12-07-13-40-38.mp4"
+    },
+    ["grok_video_2025-12-07-13-44-59_new"] = {
+        label = "grok_video_2025-12-07-13-44-59_new",
+        video = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/images/Grok/2025/12/07/grok_video_2025-12-07-13-44-59.mp4"
+    },
+    ["grok_video_2025-12-07-13-47-43_new"] = {
+        label = "grok_video_2025-12-07-13-47-43_new",
+        video = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/images/Grok/2025/12/07/grok_video_2025-12-07-13-47-43.mp4"
+    },
+    ["lol_new"] = {
+        label = "lol_new",
+        video = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/images/Grok/2025/12/07/lol.mp4"
+    },
+    ["mistttt_new_1"] = {
+        label = "mistttt_new_1",
+        video = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/images/Grok/2025/12/07/mistttt.mp4"
+    },
+    ["1764864619665_grok_video_2025-12-03-20-13-30_new"] = {
+        label = "1764864619665_grok_video_2025-12-03-20-13-30_new",
+        video = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/videos/Grok/1764864619665_grok_video_2025-12-03-20-13-30.mp4"
+    },
+    ["1764864622083_grok_video_2025-12-03-20-10-48_new"] = {
+        label = "1764864622083_grok_video_2025-12-03-20-10-48_new",
+        video = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/videos/Grok/1764864622083_grok_video_2025-12-03-20-10-48.mp4"
+    },
+    ["1764864624217_grok_video_2025-12-03-20-10-33_new"] = {
+        label = "1764864624217_grok_video_2025-12-03-20-10-33_new",
+        video = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/videos/Grok/1764864624217_grok_video_2025-12-03-20-10-33.mp4"
+    },
+    ["1764864626000_grok_video_2025-12-03-19-36-02_new"] = {
+        label = "1764864626000_grok_video_2025-12-03-19-36-02_new",
+        video = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/videos/Grok/1764864626000_grok_video_2025-12-03-19-36-02.mp4"
+    },
+    ["1764864628121_grok_video_2025-12-03-19-33-54_new"] = {
+        label = "1764864628121_grok_video_2025-12-03-19-33-54_new",
+        video = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/videos/Grok/1764864628121_grok_video_2025-12-03-19-33-54.mp4"
+    },
+    ["1764864630124_grok_video_2025-12-03-19-22-51_new"] = {
+        label = "1764864630124_grok_video_2025-12-03-19-22-51_new",
+        video = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/videos/Grok/1764864630124_grok_video_2025-12-03-19-22-51.mp4"
+    },
+    ["1764864632205_grok_video_2025-12-03-19-18-34_new"] = {
+        label = "1764864632205_grok_video_2025-12-03-19-18-34_new",
+        video = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/videos/Grok/1764864632205_grok_video_2025-12-03-19-18-34.mp4"
     }
 }
