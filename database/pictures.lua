@@ -4691,5 +4691,2449 @@ return {
     ["yosemite3step"] = {
         label = "yosemite3step",
         image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/yosemite3step.png"
+    },
+    ["book_batterup"] = {
+        label = "book_batterup",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/books/book_batterup.png"
+    },
+    ["book_brawler"] = {
+        label = "book_brawler",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/books/book_brawler.png"
+    },
+    ["book_clothing"] = {
+        label = "book_clothing",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/books/book_clothing.png"
+    },
+    ["book_enforcer"] = {
+        label = "book_enforcer",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/books/book_enforcer.png"
+    },
+    ["book_fireman"] = {
+        label = "book_fireman",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/books/book_fireman.png"
+    },
+    ["book_heist"] = {
+        label = "book_heist",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/books/book_heist.png"
+    },
+    ["book_hunting"] = {
+        label = "book_hunting",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/books/book_hunting.png"
+    },
+    ["book_hunting2"] = {
+        label = "book_hunting2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/books/book_hunting2.png"
+    },
+    ["book_hunting3"] = {
+        label = "book_hunting3",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/books/book_hunting3.png"
+    },
+    ["book_looter"] = {
+        label = "book_looter",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/books/book_looter.png"
+    },
+    ["book_machinegun"] = {
+        label = "book_machinegun",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/books/book_machinegun.png"
+    },
+    ["book_mining"] = {
+        label = "book_mining",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/books/book_mining.png"
+    },
+    ["book_pistol"] = {
+        label = "book_pistol",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/books/book_pistol.png"
+    },
+    ["book_ranger"] = {
+        label = "book_ranger",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/books/book_ranger.png"
+    },
+    ["book_sniper"] = {
+        label = "book_sniper",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/books/book_sniper.png"
+    },
+    ["book_stalker"] = {
+        label = "book_stalker",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/books/book_stalker.png"
+    },
+    ["book_techjunkie"] = {
+        label = "book_techjunkie",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/books/book_techjunkie.png"
+    },
+    ["book_treasurehunt"] = {
+        label = "book_treasurehunt",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/books/book_treasurehunt.png"
+    },
+    ["book_urbancombat"] = {
+        label = "book_urbancombat",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/books/book_urbancombat.png"
+    },
+    ["chair"] = {
+        label = "chair",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair.png"
+    },
+    ["chair1"] = {
+        label = "chair1",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair1.png"
+    },
+    ["chair10"] = {
+        label = "chair10",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair10.png"
+    },
+    ["chair100"] = {
+        label = "chair100",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair100.png"
+    },
+    ["chair101"] = {
+        label = "chair101",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair101.png"
+    },
+    ["chair102"] = {
+        label = "chair102",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair102.png"
+    },
+    ["chair103"] = {
+        label = "chair103",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair103.png"
+    },
+    ["chair104"] = {
+        label = "chair104",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair104.png"
+    },
+    ["chair105"] = {
+        label = "chair105",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair105.png"
+    },
+    ["chair106"] = {
+        label = "chair106",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair106.png"
+    },
+    ["chair107"] = {
+        label = "chair107",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair107.png"
+    },
+    ["chair108"] = {
+        label = "chair108",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair108.png"
+    },
+    ["chair109"] = {
+        label = "chair109",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair109.png"
+    },
+    ["chair11"] = {
+        label = "chair11",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair11.png"
+    },
+    ["chair110"] = {
+        label = "chair110",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair110.png"
+    },
+    ["chair12"] = {
+        label = "chair12",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair12.png"
+    },
+    ["chair13"] = {
+        label = "chair13",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair13.png"
+    },
+    ["chair14"] = {
+        label = "chair14",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair14.png"
+    },
+    ["chair15"] = {
+        label = "chair15",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair15.png"
+    },
+    ["chair16"] = {
+        label = "chair16",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair16.png"
+    },
+    ["chair17"] = {
+        label = "chair17",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair17.png"
+    },
+    ["chair18"] = {
+        label = "chair18",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair18.png"
+    },
+    ["chair19"] = {
+        label = "chair19",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair19.png"
+    },
+    ["chair2"] = {
+        label = "chair2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair2.png"
+    },
+    ["chair20"] = {
+        label = "chair20",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair20.png"
+    },
+    ["chair21"] = {
+        label = "chair21",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair21.png"
+    },
+    ["chair22"] = {
+        label = "chair22",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair22.png"
+    },
+    ["chair23"] = {
+        label = "chair23",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair23.png"
+    },
+    ["chair24"] = {
+        label = "chair24",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair24.png"
+    },
+    ["chair25"] = {
+        label = "chair25",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair25.png"
+    },
+    ["chair26"] = {
+        label = "chair26",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair26.png"
+    },
+    ["chair27"] = {
+        label = "chair27",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair27.png"
+    },
+    ["chair28"] = {
+        label = "chair28",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair28.png"
+    },
+    ["chair29"] = {
+        label = "chair29",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair29.png"
+    },
+    ["chair3"] = {
+        label = "chair3",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair3.png"
+    },
+    ["chair30"] = {
+        label = "chair30",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair30.png"
+    },
+    ["chair31"] = {
+        label = "chair31",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair31.png"
+    },
+    ["chair32"] = {
+        label = "chair32",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair32.png"
+    },
+    ["chair33"] = {
+        label = "chair33",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair33.png"
+    },
+    ["chair34"] = {
+        label = "chair34",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair34.png"
+    },
+    ["chair35"] = {
+        label = "chair35",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair35.png"
+    },
+    ["chair36"] = {
+        label = "chair36",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair36.png"
+    },
+    ["chair37"] = {
+        label = "chair37",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair37.png"
+    },
+    ["chair38"] = {
+        label = "chair38",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair38.png"
+    },
+    ["chair39"] = {
+        label = "chair39",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair39.png"
+    },
+    ["chair4"] = {
+        label = "chair4",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair4.png"
+    },
+    ["chair40"] = {
+        label = "chair40",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair40.png"
+    },
+    ["chair41"] = {
+        label = "chair41",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair41.png"
+    },
+    ["chair42"] = {
+        label = "chair42",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair42.png"
+    },
+    ["chair43"] = {
+        label = "chair43",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair43.png"
+    },
+    ["chair44"] = {
+        label = "chair44",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair44.png"
+    },
+    ["chair45"] = {
+        label = "chair45",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair45.png"
+    },
+    ["chair46"] = {
+        label = "chair46",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair46.png"
+    },
+    ["chair47"] = {
+        label = "chair47",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair47.png"
+    },
+    ["chair48"] = {
+        label = "chair48",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair48.png"
+    },
+    ["chair49"] = {
+        label = "chair49",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair49.png"
+    },
+    ["chair5"] = {
+        label = "chair5",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair5.png"
+    },
+    ["chair50"] = {
+        label = "chair50",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair50.png"
+    },
+    ["chair51"] = {
+        label = "chair51",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair51.png"
+    },
+    ["chair52"] = {
+        label = "chair52",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair52.png"
+    },
+    ["chair53"] = {
+        label = "chair53",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair53.png"
+    },
+    ["chair54"] = {
+        label = "chair54",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair54.png"
+    },
+    ["chair55"] = {
+        label = "chair55",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair55.png"
+    },
+    ["chair56"] = {
+        label = "chair56",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair56.png"
+    },
+    ["chair57"] = {
+        label = "chair57",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair57.png"
+    },
+    ["chair58"] = {
+        label = "chair58",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair58.png"
+    },
+    ["chair59"] = {
+        label = "chair59",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair59.png"
+    },
+    ["chair6"] = {
+        label = "chair6",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair6.png"
+    },
+    ["chair60"] = {
+        label = "chair60",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair60.png"
+    },
+    ["chair61"] = {
+        label = "chair61",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair61.png"
+    },
+    ["chair62"] = {
+        label = "chair62",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair62.png"
+    },
+    ["chair63"] = {
+        label = "chair63",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair63.png"
+    },
+    ["chair64"] = {
+        label = "chair64",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair64.png"
+    },
+    ["chair65"] = {
+        label = "chair65",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair65.png"
+    },
+    ["chair66"] = {
+        label = "chair66",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair66.png"
+    },
+    ["chair67"] = {
+        label = "chair67",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair67.png"
+    },
+    ["chair68"] = {
+        label = "chair68",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair68.png"
+    },
+    ["chair69"] = {
+        label = "chair69",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair69.png"
+    },
+    ["chair7"] = {
+        label = "chair7",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair7.png"
+    },
+    ["chair70"] = {
+        label = "chair70",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair70.png"
+    },
+    ["chair71"] = {
+        label = "chair71",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair71.png"
+    },
+    ["chair72"] = {
+        label = "chair72",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair72.png"
+    },
+    ["chair73"] = {
+        label = "chair73",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair73.png"
+    },
+    ["chair74"] = {
+        label = "chair74",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair74.png"
+    },
+    ["chair75"] = {
+        label = "chair75",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair75.png"
+    },
+    ["chair76"] = {
+        label = "chair76",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair76.png"
+    },
+    ["chair77"] = {
+        label = "chair77",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair77.png"
+    },
+    ["chair78"] = {
+        label = "chair78",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair78.png"
+    },
+    ["chair79"] = {
+        label = "chair79",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair79.png"
+    },
+    ["chair8"] = {
+        label = "chair8",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair8.png"
+    },
+    ["chair80"] = {
+        label = "chair80",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair80.png"
+    },
+    ["chair81"] = {
+        label = "chair81",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair81.png"
+    },
+    ["chair82"] = {
+        label = "chair82",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair82.png"
+    },
+    ["chair83"] = {
+        label = "chair83",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair83.png"
+    },
+    ["chair84"] = {
+        label = "chair84",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair84.png"
+    },
+    ["chair85"] = {
+        label = "chair85",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair85.png"
+    },
+    ["chair86"] = {
+        label = "chair86",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair86.png"
+    },
+    ["chair87"] = {
+        label = "chair87",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair87.png"
+    },
+    ["chair88"] = {
+        label = "chair88",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair88.png"
+    },
+    ["chair89"] = {
+        label = "chair89",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair89.png"
+    },
+    ["chair9"] = {
+        label = "chair9",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair9.png"
+    },
+    ["chair90"] = {
+        label = "chair90",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair90.png"
+    },
+    ["chair91"] = {
+        label = "chair91",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair91.png"
+    },
+    ["chair92"] = {
+        label = "chair92",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair92.png"
+    },
+    ["chair93"] = {
+        label = "chair93",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair93.png"
+    },
+    ["chair94"] = {
+        label = "chair94",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair94.png"
+    },
+    ["chair95"] = {
+        label = "chair95",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair95.png"
+    },
+    ["chair96"] = {
+        label = "chair96",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair96.png"
+    },
+    ["chair97"] = {
+        label = "chair97",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair97.png"
+    },
+    ["chair98"] = {
+        label = "chair98",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair98.png"
+    },
+    ["chair99"] = {
+        label = "chair99",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/chairs/chair99.png"
+    },
+    ["christmas_box"] = {
+        label = "christmas_box",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/christmas_box.png"
+    },
+    ["christmas_box2"] = {
+        label = "christmas_box2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/christmas_box2.png"
+    },
+    ["christmas_box3"] = {
+        label = "christmas_box3",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/christmas_box3.png"
+    },
+    ["christmas_box5"] = {
+        label = "christmas_box5",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/christmas_box5.png"
+    },
+    ["christmas_card"] = {
+        label = "christmas_card",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/christmas_card.png"
+    },
+    ["christmas_dinner"] = {
+        label = "christmas_dinner",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/christmas_dinner.png"
+    },
+    ["consumable_alcohol_candycane_cocktail"] = {
+        label = "consumable_alcohol_candycane_cocktail",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_alcohol_candycane_cocktail.png"
+    },
+    ["consumable_alcohol_cranberry_mimosa"] = {
+        label = "consumable_alcohol_cranberry_mimosa",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_alcohol_cranberry_mimosa.png"
+    },
+    ["consumable_alcohol_cranberry_sparkler"] = {
+        label = "consumable_alcohol_cranberry_sparkler",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_alcohol_cranberry_sparkler.png"
+    },
+    ["consumable_alcohol_eggnog"] = {
+        label = "consumable_alcohol_eggnog",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_alcohol_eggnog.png"
+    },
+    ["consumable_alcohol_eggnog_hot"] = {
+        label = "consumable_alcohol_eggnog_hot",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_alcohol_eggnog_hot.png"
+    },
+    ["consumable_alcohol_mulled_wine"] = {
+        label = "consumable_alcohol_mulled_wine",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_alcohol_mulled_wine.png"
+    },
+    ["consumable_alcohol_orange_hot_toddy"] = {
+        label = "consumable_alcohol_orange_hot_toddy",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_alcohol_orange_hot_toddy.png"
+    },
+    ["consumable_cake_cheese_cranberry"] = {
+        label = "consumable_cake_cheese_cranberry",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_cake_cheese_cranberry.png"
+    },
+    ["consumable_cake_christmas_log"] = {
+        label = "consumable_cake_christmas_log",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_cake_christmas_log.png"
+    },
+    ["consumable_cake_fruit"] = {
+        label = "consumable_cake_fruit",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_cake_fruit.png"
+    },
+    ["consumable_candycanes"] = {
+        label = "consumable_candycanes",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_candycanes.png"
+    },
+    ["consumable_christmas_pudding"] = {
+        label = "consumable_christmas_pudding",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_christmas_pudding.png"
+    },
+    ["consumable_cookie_christmas"] = {
+        label = "consumable_cookie_christmas",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_cookie_christmas.png"
+    },
+    ["consumable_cookie_gingerbre"] = {
+        label = "consumable_cookie_gingerbre",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_cookie_gingerbre.png"
+    },
+    ["consumable_cookie_reindeer"] = {
+        label = "consumable_cookie_reindeer",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_cookie_reindeer.png"
+    },
+    ["consumable_cookie_snowflake"] = {
+        label = "consumable_cookie_snowflake",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_cookie_snowflake.png"
+    },
+    ["consumable_cookie_tree"] = {
+        label = "consumable_cookie_tree",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_cookie_tree.png"
+    },
+    ["consumable_cupcake_cranberry"] = {
+        label = "consumable_cupcake_cranberry",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_cupcake_cranberry.png"
+    },
+    ["consumable_cupcake_eggnog"] = {
+        label = "consumable_cupcake_eggnog",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_cupcake_eggnog.png"
+    },
+    ["consumable_cupcake_snowman"] = {
+        label = "consumable_cupcake_snowman",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_cupcake_snowman.png"
+    },
+    ["consumable_ham_holiday"] = {
+        label = "consumable_ham_holiday",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_ham_holiday.png"
+    },
+    ["consumable_hot_coco"] = {
+        label = "consumable_hot_coco",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_hot_coco.png"
+    },
+    ["consumable_hot_coco_marshmellows"] = {
+        label = "consumable_hot_coco_marshmellows",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_hot_coco_marshmellows.png"
+    },
+    ["consumable_marshmellow_snowman"] = {
+        label = "consumable_marshmellow_snowman",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_marshmellow_snowman.png"
+    },
+    ["consumable_pie_kidney"] = {
+        label = "consumable_pie_kidney",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_pie_kidney.png"
+    },
+    ["consumable_pigs_in_blanket"] = {
+        label = "consumable_pigs_in_blanket",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_pigs_in_blanket.png"
+    },
+    ["consumable_snowman_balls"] = {
+        label = "consumable_snowman_balls",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_snowman_balls.png"
+    },
+    ["consumable_tart_mince"] = {
+        label = "consumable_tart_mince",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_tart_mince.png"
+    },
+    ["consumable_tart_mince2"] = {
+        label = "consumable_tart_mince2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_tart_mince2.png"
+    },
+    ["consumable_tart_pecan"] = {
+        label = "consumable_tart_pecan",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/consumable_tart_pecan.png"
+    },
+    ["mistletoe"] = {
+        label = "mistletoe",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/mistletoe.png"
+    },
+    ["red_giftbag"] = {
+        label = "red_giftbag",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/red_giftbag.png"
+    },
+    ["stocking"] = {
+        label = "stocking",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/stocking.png"
+    },
+    ["stocking2"] = {
+        label = "stocking2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/stocking2.png"
+    },
+    ["stocking3"] = {
+        label = "stocking3",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/stocking3.png"
+    },
+    ["stocking4"] = {
+        label = "stocking4",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/stocking4.png"
+    },
+    ["stocking5"] = {
+        label = "stocking5",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/christmas/stocking5.png"
+    },
+    ["10kgoldchain"] = {
+        label = "10kgoldchain",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/10kgoldchain.png"
+    },
+    ["Clothing_1_1"] = {
+        label = "Clothing_1_1",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/Clothing_1_1.png"
+    },
+    ["Clothing_1_101"] = {
+        label = "Clothing_1_101",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/Clothing_1_101.png"
+    },
+    ["Clothing_1_115"] = {
+        label = "Clothing_1_115",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/Clothing_1_115.png"
+    },
+    ["Clothing_1_12"] = {
+        label = "Clothing_1_12",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/Clothing_1_12.png"
+    },
+    ["Clothing_1_15"] = {
+        label = "Clothing_1_15",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/Clothing_1_15.png"
+    },
+    ["Clothing_1_2"] = {
+        label = "Clothing_1_2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/Clothing_1_2.png"
+    },
+    ["Clothing_1_28"] = {
+        label = "Clothing_1_28",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/Clothing_1_28.png"
+    },
+    ["Clothing_1_29"] = {
+        label = "Clothing_1_29",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/Clothing_1_29.png"
+    },
+    ["Clothing_1_50"] = {
+        label = "Clothing_1_50",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/Clothing_1_50.png"
+    },
+    ["Clothing_1_51_BLAU_"] = {
+        label = "Clothing_1_51_BLAU_",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/Clothing_1_51(BLAU).png"
+    },
+    ["Clothing_1_51"] = {
+        label = "Clothing_1_51",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/Clothing_1_51.png"
+    },
+    ["Clothing_1_53"] = {
+        label = "Clothing_1_53",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/Clothing_1_53.png"
+    },
+    ["Clothing_1_57"] = {
+        label = "Clothing_1_57",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/Clothing_1_57.png"
+    },
+    ["Clothing_1_69"] = {
+        label = "Clothing_1_69",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/Clothing_1_69.png"
+    },
+    ["Clothing_1_99"] = {
+        label = "Clothing_1_99",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/Clothing_1_99.png"
+    },
+    ["armor"] = {
+        label = "armor",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/armor.png"
+    },
+    ["billiondollarbabychain"] = {
+        label = "billiondollarbabychain",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/billiondollarbabychain.png"
+    },
+    ["chain_snake"] = {
+        label = "chain_snake",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/chain_snake.png"
+    },
+    ["chain_v"] = {
+        label = "chain_v",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/chain_v.png"
+    },
+    ["chainpng"] = {
+        label = "chainpng",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/chainpng.png"
+    },
+    ["clothe"] = {
+        label = "clothe",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/clothe.png"
+    },
+    ["clothes_Bagoff"] = {
+        label = "clothes_Bagoff",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/clothes_Bagoff.png"
+    },
+    ["clothes_Bracelet"] = {
+        label = "clothes_Bracelet",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/clothes_Bracelet.png"
+    },
+    ["clothes_Glasses"] = {
+        label = "clothes_Glasses",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/clothes_Glasses.png"
+    },
+    ["clothes_Mask"] = {
+        label = "clothes_Mask",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/clothes_Mask.png"
+    },
+    ["clothes_Shoes"] = {
+        label = "clothes_Shoes",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/clothes_Shoes.png"
+    },
+    ["clothes_gloves"] = {
+        label = "clothes_gloves",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/clothes_gloves.png"
+    },
+    ["diamond_necklace"] = {
+        label = "diamond_necklace",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/diamond_necklace.png"
+    },
+    ["diving_gear"] = {
+        label = "diving_gear",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/diving_gear.png"
+    },
+    ["diving_tube"] = {
+        label = "diving_tube",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/diving_tube.png"
+    },
+    ["duffel"] = {
+        label = "duffel",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/duffel.png"
+    },
+    ["duffel2"] = {
+        label = "duffel2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/duffel2.png"
+    },
+    ["emerald_earring"] = {
+        label = "emerald_earring",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/emerald_earring.png"
+    },
+    ["emerald_necklace"] = {
+        label = "emerald_necklace",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/emerald_necklace.png"
+    },
+    ["emerald_necklace_silver"] = {
+        label = "emerald_necklace_silver",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/emerald_necklace_silver.png"
+    },
+    ["engage_ring"] = {
+        label = "engage_ring",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/engage_ring.png"
+    },
+    ["fireskull-ring"] = {
+        label = "fireskull-ring",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/fireskull-ring.png"
+    },
+    ["flag_blue"] = {
+        label = "flag_blue",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/flag_blue.png"
+    },
+    ["flag_green"] = {
+        label = "flag_green",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/flag_green.png"
+    },
+    ["flag_pink"] = {
+        label = "flag_pink",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/flag_pink.png"
+    },
+    ["flag_purple"] = {
+        label = "flag_purple",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/flag_purple.png"
+    },
+    ["flag_yellow"] = {
+        label = "flag_yellow",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/flag_yellow.png"
+    },
+    ["gasmask"] = {
+        label = "gasmask",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/gasmask.png"
+    },
+    ["golandblueau"] = {
+        label = "golandblueau",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/golandblueau.png"
+    },
+    ["gold_earring"] = {
+        label = "gold_earring",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/gold_earring.png"
+    },
+    ["goldandcyanau"] = {
+        label = "goldandcyanau",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/goldandcyanau.png"
+    },
+    ["goldandorangeau"] = {
+        label = "goldandorangeau",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/goldandorangeau.png"
+    },
+    ["goldandsilverau"] = {
+        label = "goldandsilverau",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/goldandsilverau.png"
+    },
+    ["goldchain"] = {
+        label = "goldchain",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/goldchain.png"
+    },
+    ["goldongoldau"] = {
+        label = "goldongoldau",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/goldongoldau.png"
+    },
+    ["gucci_tshirt"] = {
+        label = "gucci_tshirt",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/gucci_tshirt.png"
+    },
+    ["heavyarmor"] = {
+        label = "heavyarmor",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/heavyarmor.png"
+    },
+    ["helmet_16"] = {
+        label = "helmet_16",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/helmet_16.png"
+    },
+    ["helmet_17"] = {
+        label = "helmet_17",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/helmet_17.png"
+    },
+    ["helmet_50"] = {
+        label = "helmet_50",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/helmet_50.png"
+    },
+    ["helmet_51"] = {
+        label = "helmet_51",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/helmet_51.png"
+    },
+    ["helmet_62"] = {
+        label = "helmet_62",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/helmet_62.png"
+    },
+    ["helmet_88"] = {
+        label = "helmet_88",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/helmet_88.png"
+    },
+    ["helmet_89"] = {
+        label = "helmet_89",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/helmet_89.png"
+    },
+    ["hockeymask"] = {
+        label = "hockeymask",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/hockeymask.png"
+    },
+    ["jordan6s"] = {
+        label = "jordan6s",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/jordan6s.png"
+    },
+    ["jordan6s2"] = {
+        label = "jordan6s2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/jordan6s2.png"
+    },
+    ["kq_expensive_bag"] = {
+        label = "kq_expensive_bag",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/kq_expensive_bag.png"
+    },
+    ["kq_expensive_watch"] = {
+        label = "kq_expensive_watch",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/kq_expensive_watch.png"
+    },
+    ["kuz_divinggear"] = {
+        label = "kuz_divinggear",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/kuz_divinggear.png"
+    },
+    ["kuz_divinggeargood"] = {
+        label = "kuz_divinggeargood",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/kuz_divinggeargood.png"
+    },
+    ["kuz_jewelry"] = {
+        label = "kuz_jewelry",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/kuz_jewelry.png"
+    },
+    ["lapi-ring"] = {
+        label = "lapi-ring",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/lapi-ring.png"
+    },
+    ["louis_vuitton_tshirt"] = {
+        label = "louis_vuitton_tshirt",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/louis_vuitton_tshirt.png"
+    },
+    ["megaring"] = {
+        label = "megaring",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/megaring.png"
+    },
+    ["pogo_mask"] = {
+        label = "pogo_mask",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/pogo_mask.png"
+    },
+    ["prada_bag"] = {
+        label = "prada_bag",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/prada_bag.png"
+    },
+    ["redgem-ring"] = {
+        label = "redgem-ring",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/redgem-ring.png"
+    },
+    ["ring2"] = {
+        label = "ring2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/ring2.png"
+    },
+    ["ruby_earring"] = {
+        label = "ruby_earring",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/ruby_earring.png"
+    },
+    ["ruby_necklace"] = {
+        label = "ruby_necklace",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/ruby_necklace.png"
+    },
+    ["ruby_necklace_silver"] = {
+        label = "ruby_necklace_silver",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/ruby_necklace_silver.png"
+    },
+    ["sapphire_earring_silver"] = {
+        label = "sapphire_earring_silver",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/sapphire_earring_silver.png"
+    },
+    ["sapphire_ring_silver"] = {
+        label = "sapphire_ring_silver",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/sapphire_ring_silver.png"
+    },
+    ["scarecrowmask"] = {
+        label = "scarecrowmask",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/scarecrowmask.png"
+    },
+    ["scarf"] = {
+        label = "scarf",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/scarf.png"
+    },
+    ["shirts"] = {
+        label = "shirts",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/shirts.png"
+    },
+    ["shoes_yellow"] = {
+        label = "shoes_yellow",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/shoes_yellow.png"
+    },
+    ["silver_earring"] = {
+        label = "silver_earring",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/silver_earring.png"
+    },
+    ["silver_ring"] = {
+        label = "silver_ring",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/silver_ring.png"
+    },
+    ["silverandblueau"] = {
+        label = "silverandblueau",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/silverandblueau.png"
+    },
+    ["silverandgoldau"] = {
+        label = "silverandgoldau",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/silverandgoldau.png"
+    },
+    ["silverearring"] = {
+        label = "silverearring",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/silverearring.png"
+    },
+    ["skullbandana"] = {
+        label = "skullbandana",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/skullbandana.png"
+    },
+    ["titanhex-ring"] = {
+        label = "titanhex-ring",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/clothing/titanhex-ring.png"
+    },
+    ["1gheroin"] = {
+        label = "1gheroin",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/1gheroin.png"
+    },
+    ["Coca-leaves"] = {
+        label = "Coca-leaves",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/Coca-leaves.png"
+    },
+    ["acapulcogold_leaf"] = {
+        label = "acapulcogold_leaf",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/acapulcogold_leaf.png"
+    },
+    ["acapulcogold_seed"] = {
+        label = "acapulcogold_seed",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/acapulcogold_seed.png"
+    },
+    ["acapulcogold_trimmed_bud"] = {
+        label = "acapulcogold_trimmed_bud",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/acapulcogold_trimmed_bud.png"
+    },
+    ["acapulcogold_untrimmed_bud"] = {
+        label = "acapulcogold_untrimmed_bud",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/acapulcogold_untrimmed_bud.png"
+    },
+    ["acetone_new"] = {
+        label = "acetone_new",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/acetone.png"
+    },
+    ["acetone2"] = {
+        label = "acetone2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/acetone2.png"
+    },
+    ["acetone3"] = {
+        label = "acetone3",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/acetone3.png"
+    },
+    ["acetonebarrel"] = {
+        label = "acetonebarrel",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/acetonebarrel.png"
+    },
+    ["acid"] = {
+        label = "acid",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/acid.png"
+    },
+    ["acyclovir"] = {
+        label = "acyclovir",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/acyclovir.png"
+    },
+    ["ak47-lb"] = {
+        label = "ak47-lb",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/ak47-lb.png"
+    },
+    ["ak47-oz"] = {
+        label = "ak47-oz",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/ak47-oz.png"
+    },
+    ["aluminumoxide"] = {
+        label = "aluminumoxide",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/aluminumoxide.png"
+    },
+    ["ammonia"] = {
+        label = "ammonia",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/ammonia.png"
+    },
+    ["ammonium_nitrate"] = {
+        label = "ammonium_nitrate",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/ammonium_nitrate.png"
+    },
+    ["ammoniumnitrate"] = {
+        label = "ammoniumnitrate",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/ammoniumnitrate.png"
+    },
+    ["ammoniumnitratebarrel"] = {
+        label = "ammoniumnitratebarrel",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/ammoniumnitratebarrel.png"
+    },
+    ["amnesia-lb"] = {
+        label = "amnesia-lb",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/amnesia-lb.png"
+    },
+    ["amnesia-oz"] = {
+        label = "amnesia-oz",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/amnesia-oz.png"
+    },
+    ["babypowder"] = {
+        label = "babypowder",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/babypowder.png"
+    },
+    ["bag-purple"] = {
+        label = "bag-purple",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/bag-purple.png"
+    },
+    ["baggy_cocaine"] = {
+        label = "baggy_cocaine",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/baggy_cocaine.png"
+    },
+    ["baggy_empty"] = {
+        label = "baggy_empty",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/baggy_empty.png"
+    },
+    ["baggy_empty2"] = {
+        label = "baggy_empty2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/baggy_empty2.png"
+    },
+    ["baggy_extasy"] = {
+        label = "baggy_extasy",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/baggy_extasy.png"
+    },
+    ["baggy_meth"] = {
+        label = "baggy_meth",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/baggy_meth.png"
+    },
+    ["baggy_methLG"] = {
+        label = "baggy_methLG",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/baggy_methLG.png"
+    },
+    ["baggy_weed"] = {
+        label = "baggy_weed",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/baggy_weed.png"
+    },
+    ["bakingsoda"] = {
+        label = "bakingsoda",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/bakingsoda.png"
+    },
+    ["banana_kush_bag"] = {
+        label = "banana_kush_bag",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/banana_kush_bag.png"
+    },
+    ["banana_kush_joint"] = {
+        label = "banana_kush_joint",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/banana_kush_joint.png"
+    },
+    ["banana_kush_weed"] = {
+        label = "banana_kush_weed",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/banana_kush_weed.png"
+    },
+    ["beaker"] = {
+        label = "beaker",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/beaker.png"
+    },
+    ["big_scale"] = {
+        label = "big_scale",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/big_scale.png"
+    },
+    ["blue_dream_bag"] = {
+        label = "blue_dream_bag",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/blue_dream_bag.png"
+    },
+    ["blue_dream_joint"] = {
+        label = "blue_dream_joint",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/blue_dream_joint.png"
+    },
+    ["blue_dream_weed"] = {
+        label = "blue_dream_weed",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/blue_dream_weed.png"
+    },
+    ["blunt"] = {
+        label = "blunt",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/blunt.png"
+    },
+    ["bluntwrap"] = {
+        label = "bluntwrap",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/bluntwrap.png"
+    },
+    ["bong"] = {
+        label = "bong",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/bong.png"
+    },
+    ["brick_cocaine"] = {
+        label = "brick_cocaine",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/brick_cocaine.png"
+    },
+    ["brick_cocaine2"] = {
+        label = "brick_cocaine2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/brick_cocaine2.png"
+    },
+    ["brick_meth"] = {
+        label = "brick_meth",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/brick_meth.png"
+    },
+    ["brick_opium"] = {
+        label = "brick_opium",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/brick_opium.png"
+    },
+    ["brick_weed"] = {
+        label = "brick_weed",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/brick_weed.png"
+    },
+    ["cannabis"] = {
+        label = "cannabis",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/cannabis.png"
+    },
+    ["cannibis"] = {
+        label = "cannibis",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/cannibis.png"
+    },
+    ["chemicalmixer"] = {
+        label = "chemicalmixer",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/chemicalmixer.png"
+    },
+    ["chemicals"] = {
+        label = "chemicals",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/chemicals.png"
+    },
+    ["chemistry_station"] = {
+        label = "chemistry_station",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/chemistry_station.png"
+    },
+    ["cocaine"] = {
+        label = "cocaine",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/cocaine.png"
+    },
+    ["cocaine_baggy"] = {
+        label = "cocaine_baggy",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/cocaine_baggy.png"
+    },
+    ["cocaine_cut"] = {
+        label = "cocaine_cut",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/cocaine_cut.png"
+    },
+    ["cocaine_packaged"] = {
+        label = "cocaine_packaged",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/cocaine_packaged.png"
+    },
+    ["cocaineleaf"] = {
+        label = "cocaineleaf",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/cocaineleaf.png"
+    },
+    ["cocaleaf"] = {
+        label = "cocaleaf",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/cocaleaf.png"
+    },
+    ["codeine"] = {
+        label = "codeine",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/codeine.png"
+    },
+    ["coke_brick"] = {
+        label = "coke_brick",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/coke_brick.png"
+    },
+    ["coke_brick2"] = {
+        label = "coke_brick2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/coke_brick2.png"
+    },
+    ["coke_small_brick"] = {
+        label = "coke_small_brick",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/coke_small_brick.png"
+    },
+    ["cokepackage"] = {
+        label = "cokepackage",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/cokepackage.png"
+    },
+    ["coketable"] = {
+        label = "coketable",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/coketable.png"
+    },
+    ["colombiangold_leaf"] = {
+        label = "colombiangold_leaf",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/colombiangold_leaf.png"
+    },
+    ["colombiangold_seed"] = {
+        label = "colombiangold_seed",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/colombiangold_seed.png"
+    },
+    ["colombiangold_trimmed_bud"] = {
+        label = "colombiangold_trimmed_bud",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/colombiangold_trimmed_bud.png"
+    },
+    ["colombiangold_untrimmed_bud"] = {
+        label = "colombiangold_untrimmed_bud",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/colombiangold_untrimmed_bud.png"
+    },
+    ["crack_baggy"] = {
+        label = "crack_baggy",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/crack_baggy.png"
+    },
+    ["crackmixingagent"] = {
+        label = "crackmixingagent",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/crackmixingagent.png"
+    },
+    ["dirtyneedle"] = {
+        label = "dirtyneedle",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/dirtyneedle.png"
+    },
+    ["distilledwater"] = {
+        label = "distilledwater",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/distilledwater.png"
+    },
+    ["dosidos_leaf"] = {
+        label = "dosidos_leaf",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/dosidos_leaf.png"
+    },
+    ["dosidos_seed"] = {
+        label = "dosidos_seed",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/dosidos_seed.png"
+    },
+    ["dosidos_trimmed_bud"] = {
+        label = "dosidos_trimmed_bud",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/dosidos_trimmed_bud.png"
+    },
+    ["dosidos_untrimmed_bud"] = {
+        label = "dosidos_untrimmed_bud",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/dosidos_untrimmed_bud.png"
+    },
+    ["drug_cocaine"] = {
+        label = "drug_cocaine",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/drug_cocaine.png"
+    },
+    ["drug_hash"] = {
+        label = "drug_hash",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/drug_hash.png"
+    },
+    ["drug_heroin"] = {
+        label = "drug_heroin",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/drug_heroin.png"
+    },
+    ["drug_lean"] = {
+        label = "drug_lean",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/drug_lean.png"
+    },
+    ["drug_opium"] = {
+        label = "drug_opium",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/drug_opium.png"
+    },
+    ["drug_phone"] = {
+        label = "drug_phone",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/drug_phone.png"
+    },
+    ["ecgonine"] = {
+        label = "ecgonine",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/ecgonine.png"
+    },
+    ["elock"] = {
+        label = "elock",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/elock.png"
+    },
+    ["emptychembottles"] = {
+        label = "emptychembottles",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/emptychembottles.png"
+    },
+    ["ephedrine"] = {
+        label = "ephedrine",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/ephedrine.png"
+    },
+    ["formaldehyde"] = {
+        label = "formaldehyde",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/formaldehyde.png"
+    },
+    ["gelpills_blue"] = {
+        label = "gelpills_blue",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/gelpills_blue.png"
+    },
+    ["gelpills_pink"] = {
+        label = "gelpills_pink",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/gelpills_pink.png"
+    },
+    ["gelpills_red"] = {
+        label = "gelpills_red",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/gelpills_red.png"
+    },
+    ["gelpills_yellow"] = {
+        label = "gelpills_yellow",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/gelpills_yellow.png"
+    },
+    ["glass_bong"] = {
+        label = "glass_bong",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/glass_bong.png"
+    },
+    ["greengelato_trimmed_bud"] = {
+        label = "greengelato_trimmed_bud",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/greengelato_trimmed_bud.png"
+    },
+    ["ground-weed"] = {
+        label = "ground-weed",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/ground-weed.png"
+    },
+    ["highqualityscales"] = {
+        label = "highqualityscales",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/highqualityscales.png"
+    },
+    ["hiqualitysoil"] = {
+        label = "hiqualitysoil",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/hiqualitysoil.png"
+    },
+    ["hiqualnutrients"] = {
+        label = "hiqualnutrients",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/hiqualnutrients.png"
+    },
+    ["hydrochloricacid"] = {
+        label = "hydrochloricacid",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/hydrochloricacid.png"
+    },
+    ["ironoxide"] = {
+        label = "ironoxide",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/ironoxide.png"
+    },
+    ["join_purplehazet2"] = {
+        label = "join_purplehazet2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/join_purplehazet2.png"
+    },
+    ["joint"] = {
+        label = "joint",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/joint.png"
+    },
+    ["joint1"] = {
+        label = "joint1",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/joint1.png"
+    },
+    ["joint2"] = {
+        label = "joint2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/joint2.png"
+    },
+    ["joint3"] = {
+        label = "joint3",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/joint3.png"
+    },
+    ["joint4"] = {
+        label = "joint4",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/joint4.png"
+    },
+    ["joint6"] = {
+        label = "joint6",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/joint6.png"
+    },
+    ["joint7"] = {
+        label = "joint7",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/joint7.png"
+    },
+    ["joint_afghankush"] = {
+        label = "joint_afghankush",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/joint_afghankush.png"
+    },
+    ["joint_ak47"] = {
+        label = "joint_ak47",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/joint_ak47.png"
+    },
+    ["joint_ak47_2"] = {
+        label = "joint_ak47_2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/joint_ak47_2.png"
+    },
+    ["joint_amnesia"] = {
+        label = "joint_amnesia",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/joint_amnesia.png"
+    },
+    ["joint_amnesia2"] = {
+        label = "joint_amnesia2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/joint_amnesia2.png"
+    },
+    ["joint_normal"] = {
+        label = "joint_normal",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/joint_normal.png"
+    },
+    ["joint_normal2"] = {
+        label = "joint_normal2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/joint_normal2.png"
+    },
+    ["joint_og-kush"] = {
+        label = "joint_og-kush",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/joint_og-kush.png"
+    },
+    ["joint_og-kush2"] = {
+        label = "joint_og-kush2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/joint_og-kush2.png"
+    },
+    ["joint_purplehaze"] = {
+        label = "joint_purplehaze",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/joint_purplehaze.png"
+    },
+    ["joint_skunk"] = {
+        label = "joint_skunk",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/joint_skunk.png"
+    },
+    ["joint_skunk2"] = {
+        label = "joint_skunk2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/joint_skunk2.png"
+    },
+    ["joint_whitewidow"] = {
+        label = "joint_whitewidow",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/joint_whitewidow.png"
+    },
+    ["joint_whitewidow2"] = {
+        label = "joint_whitewidow2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/joint_whitewidow2.png"
+    },
+    ["joint_whitewidow_2"] = {
+        label = "joint_whitewidow_2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/joint_whitewidow_2.png"
+    },
+    ["lab"] = {
+        label = "lab",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/lab.png"
+    },
+    ["lean"] = {
+        label = "lean",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/lean.png"
+    },
+    ["lemonskunk_leaf"] = {
+        label = "lemonskunk_leaf",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/lemonskunk_leaf.png"
+    },
+    ["lemonskunk_seed"] = {
+        label = "lemonskunk_seed",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/lemonskunk_seed.png"
+    },
+    ["lemonskunk_trimmed_bud"] = {
+        label = "lemonskunk_trimmed_bud",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/lemonskunk_trimmed_bud.png"
+    },
+    ["lemonskunk_untrimmed_bud"] = {
+        label = "lemonskunk_untrimmed_bud",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/lemonskunk_untrimmed_bud.png"
+    },
+    ["liquid_sulfur"] = {
+        label = "liquid_sulfur",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/liquid_sulfur.png"
+    },
+    ["lithium_new"] = {
+        label = "lithium_new",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/lithium.png"
+    },
+    ["lithiumbarrel"] = {
+        label = "lithiumbarrel",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/lithiumbarrel.png"
+    },
+    ["lowqualitysoil"] = {
+        label = "lowqualitysoil",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/lowqualitysoil.png"
+    },
+    ["lowqualnutrients"] = {
+        label = "lowqualnutrients",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/lowqualnutrients.png"
+    },
+    ["lsd"] = {
+        label = "lsd",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/lsd.png"
+    },
+    ["lsdtab"] = {
+        label = "lsdtab",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/lsdtab.png"
+    },
+    ["magic_mushroom"] = {
+        label = "magic_mushroom",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/magic_mushroom.png"
+    },
+    ["magic_mushrooms"] = {
+        label = "magic_mushrooms",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/magic_mushrooms.png"
+    },
+    ["magic_mushrooms_dry"] = {
+        label = "magic_mushrooms_dry",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/magic_mushrooms_dry.png"
+    },
+    ["marijuana_bud1"] = {
+        label = "marijuana_bud1",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_bud1.png"
+    },
+    ["marijuana_bud1_untrimmed"] = {
+        label = "marijuana_bud1_untrimmed",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_bud1_untrimmed.png"
+    },
+    ["marijuana_bud2"] = {
+        label = "marijuana_bud2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_bud2.png"
+    },
+    ["marijuana_bud2_untrimmed"] = {
+        label = "marijuana_bud2_untrimmed",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_bud2_untrimmed.png"
+    },
+    ["marijuana_bud3"] = {
+        label = "marijuana_bud3",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_bud3.png"
+    },
+    ["marijuana_bud3_untrimmed"] = {
+        label = "marijuana_bud3_untrimmed",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_bud3_untrimmed.png"
+    },
+    ["marijuana_bud4"] = {
+        label = "marijuana_bud4",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_bud4.png"
+    },
+    ["marijuana_bud4_untrimmed"] = {
+        label = "marijuana_bud4_untrimmed",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_bud4_untrimmed.png"
+    },
+    ["marijuana_bud5"] = {
+        label = "marijuana_bud5",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_bud5.png"
+    },
+    ["marijuana_bud5_untrimmed"] = {
+        label = "marijuana_bud5_untrimmed",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_bud5_untrimmed.png"
+    },
+    ["marijuana_bud6"] = {
+        label = "marijuana_bud6",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_bud6.png"
+    },
+    ["marijuana_bud6_untrimmed"] = {
+        label = "marijuana_bud6_untrimmed",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_bud6_untrimmed.png"
+    },
+    ["marijuana_bud7"] = {
+        label = "marijuana_bud7",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_bud7.png"
+    },
+    ["marijuana_bud7_untrimmed"] = {
+        label = "marijuana_bud7_untrimmed",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_bud7_untrimmed.png"
+    },
+    ["marijuana_jar1"] = {
+        label = "marijuana_jar1",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_jar1.png"
+    },
+    ["marijuana_jar2"] = {
+        label = "marijuana_jar2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_jar2.png"
+    },
+    ["marijuana_jar3"] = {
+        label = "marijuana_jar3",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_jar3.png"
+    },
+    ["marijuana_jar4"] = {
+        label = "marijuana_jar4",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_jar4.png"
+    },
+    ["marijuana_jar5"] = {
+        label = "marijuana_jar5",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_jar5.png"
+    },
+    ["marijuana_jar6"] = {
+        label = "marijuana_jar6",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_jar6.png"
+    },
+    ["marijuana_jar7"] = {
+        label = "marijuana_jar7",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_jar7.png"
+    },
+    ["marijuana_joint1"] = {
+        label = "marijuana_joint1",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_joint1.png"
+    },
+    ["marijuana_joint1_1"] = {
+        label = "marijuana_joint1_1",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_joint1_1.png"
+    },
+    ["marijuana_joint1_2"] = {
+        label = "marijuana_joint1_2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_joint1_2.png"
+    },
+    ["marijuana_joint1_3"] = {
+        label = "marijuana_joint1_3",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_joint1_3.png"
+    },
+    ["marijuana_joint1_4"] = {
+        label = "marijuana_joint1_4",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_joint1_4.png"
+    },
+    ["marijuana_joint1_5"] = {
+        label = "marijuana_joint1_5",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_joint1_5.png"
+    },
+    ["marijuana_joint1_6"] = {
+        label = "marijuana_joint1_6",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_joint1_6.png"
+    },
+    ["marijuana_joint1_7"] = {
+        label = "marijuana_joint1_7",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_joint1_7.png"
+    },
+    ["marijuana_joint2"] = {
+        label = "marijuana_joint2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_joint2.png"
+    },
+    ["marijuana_joint2_1"] = {
+        label = "marijuana_joint2_1",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_joint2_1.png"
+    },
+    ["marijuana_joint2_2"] = {
+        label = "marijuana_joint2_2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_joint2_2.png"
+    },
+    ["marijuana_joint2_3"] = {
+        label = "marijuana_joint2_3",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_joint2_3.png"
+    },
+    ["marijuana_joint2_4"] = {
+        label = "marijuana_joint2_4",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_joint2_4.png"
+    },
+    ["marijuana_joint2_5"] = {
+        label = "marijuana_joint2_5",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_joint2_5.png"
+    },
+    ["marijuana_joint2_6"] = {
+        label = "marijuana_joint2_6",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_joint2_6.png"
+    },
+    ["marijuana_joint2_7"] = {
+        label = "marijuana_joint2_7",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_joint2_7.png"
+    },
+    ["marijuana_joint3"] = {
+        label = "marijuana_joint3",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_joint3.png"
+    },
+    ["marijuana_joint3_1"] = {
+        label = "marijuana_joint3_1",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_joint3_1.png"
+    },
+    ["marijuana_joint3_2"] = {
+        label = "marijuana_joint3_2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_joint3_2.png"
+    },
+    ["marijuana_joint3_3"] = {
+        label = "marijuana_joint3_3",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_joint3_3.png"
+    },
+    ["marijuana_joint3_4"] = {
+        label = "marijuana_joint3_4",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_joint3_4.png"
+    },
+    ["marijuana_joint3_5"] = {
+        label = "marijuana_joint3_5",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_joint3_5.png"
+    },
+    ["marijuana_joint3_6"] = {
+        label = "marijuana_joint3_6",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_joint3_6.png"
+    },
+    ["marijuana_joint3_7"] = {
+        label = "marijuana_joint3_7",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_joint3_7.png"
+    },
+    ["marijuana_joint_double1"] = {
+        label = "marijuana_joint_double1",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_joint_double1.png"
+    },
+    ["marijuana_joint_double2"] = {
+        label = "marijuana_joint_double2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_joint_double2.png"
+    },
+    ["marijuana_joint_double3"] = {
+        label = "marijuana_joint_double3",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_joint_double3.png"
+    },
+    ["marijuana_tincture"] = {
+        label = "marijuana_tincture",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marijuana_tincture.png"
+    },
+    ["marlboro"] = {
+        label = "marlboro",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marlboro.png"
+    },
+    ["marlborocig"] = {
+        label = "marlborocig",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/marlborocig.png"
+    },
+    ["medqualnutrients"] = {
+        label = "medqualnutrients",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/medqualnutrients.png"
+    },
+    ["meth"] = {
+        label = "meth",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/meth.png"
+    },
+    ["meth_baggy"] = {
+        label = "meth_baggy",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/meth_baggy.png"
+    },
+    ["meth_blue"] = {
+        label = "meth_blue",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/meth_blue.png"
+    },
+    ["meth_green"] = {
+        label = "meth_green",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/meth_green.png"
+    },
+    ["meth_grey"] = {
+        label = "meth_grey",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/meth_grey.png"
+    },
+    ["meth_packaged"] = {
+        label = "meth_packaged",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/meth_packaged.png"
+    },
+    ["meth_pink"] = {
+        label = "meth_pink",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/meth_pink.png"
+    },
+    ["meth_purple"] = {
+        label = "meth_purple",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/meth_purple.png"
+    },
+    ["meth_tray_new"] = {
+        label = "meth_tray_new",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/meth_tray.png"
+    },
+    ["meth_tray2"] = {
+        label = "meth_tray2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/meth_tray2.png"
+    },
+    ["methalmine2"] = {
+        label = "methalmine2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/methalmine2.png"
+    },
+    ["methtable"] = {
+        label = "methtable",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/methtable.png"
+    },
+    ["methylamine_barrel"] = {
+        label = "methylamine_barrel",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/methylamine_barrel.png"
+    },
+    ["muriatic_acid"] = {
+        label = "muriatic_acid",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/muriatic_acid.png"
+    },
+    ["murioticacid"] = {
+        label = "murioticacid",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/murioticacid.png"
+    },
+    ["murioticacidbarrel"] = {
+        label = "murioticacidbarrel",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/murioticacidbarrel.png"
+    },
+    ["northernlights_leaf"] = {
+        label = "northernlights_leaf",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/northernlights_leaf.png"
+    },
+    ["northernlights_seed"] = {
+        label = "northernlights_seed",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/northernlights_seed.png"
+    },
+    ["northernlights_trimmed_bud"] = {
+        label = "northernlights_trimmed_bud",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/northernlights_trimmed_bud.png"
+    },
+    ["northernlights_untrimmed_bud"] = {
+        label = "northernlights_untrimmed_bud",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/northernlights_untrimmed_bud.png"
+    },
+    ["og-kush-lb"] = {
+        label = "og-kush-lb",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/og-kush-lb.png"
+    },
+    ["og-kush-oz"] = {
+        label = "og-kush-oz",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/og-kush-oz.png"
+    },
+    ["og_kush_bag"] = {
+        label = "og_kush_bag",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/og_kush_bag.png"
+    },
+    ["og_kush_joint"] = {
+        label = "og_kush_joint",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/og_kush_joint.png"
+    },
+    ["og_kush_weed"] = {
+        label = "og_kush_weed",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/og_kush_weed.png"
+    },
+    ["ogkush_leaf"] = {
+        label = "ogkush_leaf",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/ogkush_leaf.png"
+    },
+    ["ogkush_seed"] = {
+        label = "ogkush_seed",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/ogkush_seed.png"
+    },
+    ["ogkush_trimmed_bud"] = {
+        label = "ogkush_trimmed_bud",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/ogkush_trimmed_bud.png"
+    },
+    ["ogkush_untrimmed_bud"] = {
+        label = "ogkush_untrimmed_bud",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/ogkush_untrimmed_bud.png"
+    },
+    ["opium_dry"] = {
+        label = "opium_dry",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/opium_dry.png"
+    },
+    ["opium_dry2"] = {
+        label = "opium_dry2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/opium_dry2.png"
+    },
+    ["opium_pipe"] = {
+        label = "opium_pipe",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/opium_pipe.png"
+    },
+    ["oxy"] = {
+        label = "oxy",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/oxy.png"
+    },
+    ["peyote_button"] = {
+        label = "peyote_button",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/peyote_button.png"
+    },
+    ["peyote_seed"] = {
+        label = "peyote_seed",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/peyote_seed.png"
+    },
+    ["pills_extasy"] = {
+        label = "pills_extasy",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/pills_extasy.png"
+    },
+    ["pills_fentanyl"] = {
+        label = "pills_fentanyl",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/pills_fentanyl.png"
+    },
+    ["plantpot"] = {
+        label = "plantpot",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/plantpot.png"
+    },
+    ["plasticbag"] = {
+        label = "plasticbag",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/plasticbag.png"
+    },
+    ["poppy"] = {
+        label = "poppy",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/poppy.png"
+    },
+    ["powder_blue"] = {
+        label = "powder_blue",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/powder_blue.png"
+    },
+    ["powder_green"] = {
+        label = "powder_green",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/powder_green.png"
+    },
+    ["powder_grey"] = {
+        label = "powder_grey",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/powder_grey.png"
+    },
+    ["powder_pink"] = {
+        label = "powder_pink",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/powder_pink.png"
+    },
+    ["powder_purple"] = {
+        label = "powder_purple",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/powder_purple.png"
+    },
+    ["purple-haze-lb"] = {
+        label = "purple-haze-lb",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/purple-haze-lb.png"
+    },
+    ["purple-haze-oz"] = {
+        label = "purple-haze-oz",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/purple-haze-oz.png"
+    },
+    ["purple_haze_bag"] = {
+        label = "purple_haze_bag",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/purple_haze_bag.png"
+    },
+    ["purple_haze_joint"] = {
+        label = "purple_haze_joint",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/purple_haze_joint.png"
+    },
+    ["purple_haze_weed"] = {
+        label = "purple_haze_weed",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/purple_haze_weed.png"
+    },
+    ["px_oxybag"] = {
+        label = "px_oxybag",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/px_oxybag.png"
+    },
+    ["rainbowbelts_leaf"] = {
+        label = "rainbowbelts_leaf",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/rainbowbelts_leaf.png"
+    },
+    ["rainbowbelts_seed"] = {
+        label = "rainbowbelts_seed",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/rainbowbelts_seed.png"
+    },
+    ["rainbowbelts_trimmed_bud"] = {
+        label = "rainbowbelts_trimmed_bud",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/rainbowbelts_trimmed_bud.png"
+    },
+    ["rainbowbelts_untrimmed_bud"] = {
+        label = "rainbowbelts_untrimmed_bud",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/rainbowbelts_untrimmed_bud.png"
+    },
+    ["red_sulfur"] = {
+        label = "red_sulfur",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/red_sulfur.png"
+    },
+    ["redsulfurbarrel"] = {
+        label = "redsulfurbarrel",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/redsulfurbarrel.png"
+    },
+    ["redw"] = {
+        label = "redw",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/redw.png"
+    },
+    ["redwcig"] = {
+        label = "redwcig",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/redwcig.png"
+    },
+    ["sacid"] = {
+        label = "sacid",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/sacid.png"
+    },
+    ["skunk-lb"] = {
+        label = "skunk-lb",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/skunk-lb.png"
+    },
+    ["skunk-oz"] = {
+        label = "skunk-oz",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/skunk-oz.png"
+    },
+    ["small-scale"] = {
+        label = "small-scale",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/small-scale.png"
+    },
+    ["sodium_hydroxide"] = {
+        label = "sodium_hydroxide",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/sodium_hydroxide.png"
+    },
+    ["sodiumbicarbonate"] = {
+        label = "sodiumbicarbonate",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/sodiumbicarbonate.png"
+    },
+    ["sodiumhydroxide"] = {
+        label = "sodiumhydroxide",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/sodiumhydroxide.png"
+    },
+    ["sodiumhydroxidebarrel"] = {
+        label = "sodiumhydroxidebarrel",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/sodiumhydroxidebarrel.png"
+    },
+    ["table"] = {
+        label = "table",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/table.png"
+    },
+    ["weed"] = {
+        label = "weed",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weed.png"
+    },
+    ["weed_ak47_bud"] = {
+        label = "weed_ak47_bud",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weed_ak47_bud.png"
+    },
+    ["weed_amnesia_bud"] = {
+        label = "weed_amnesia_bud",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weed_amnesia_bud.png"
+    },
+    ["weed_baggy"] = {
+        label = "weed_baggy",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weed_baggy.png"
+    },
+    ["weed_baggy_empty"] = {
+        label = "weed_baggy_empty",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weed_baggy_empty.png"
+    },
+    ["weed_brick"] = {
+        label = "weed_brick",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weed_brick.png"
+    },
+    ["weed_butter"] = {
+        label = "weed_butter",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weed_butter.png"
+    },
+    ["weed_gummies"] = {
+        label = "weed_gummies",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weed_gummies.png"
+    },
+    ["weed_laced"] = {
+        label = "weed_laced",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weed_laced.png"
+    },
+    ["weed_nutrition"] = {
+        label = "weed_nutrition",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weed_nutrition.png"
+    },
+    ["weed_og-kush_bud"] = {
+        label = "weed_og-kush_bud",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weed_og-kush_bud.png"
+    },
+    ["weed_oil"] = {
+        label = "weed_oil",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weed_oil.png"
+    },
+    ["weed_packaged"] = {
+        label = "weed_packaged",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weed_packaged.png"
+    },
+    ["weed_purple-haze_bud"] = {
+        label = "weed_purple-haze_bud",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weed_purple-haze_bud.png"
+    },
+    ["weed_ream"] = {
+        label = "weed_ream",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weed_ream.png"
+    },
+    ["weed_seed"] = {
+        label = "weed_seed",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weed_seed.png"
+    },
+    ["weed_seed1"] = {
+        label = "weed_seed1",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weed_seed1.png"
+    },
+    ["weed_seed2"] = {
+        label = "weed_seed2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weed_seed2.png"
+    },
+    ["weed_seed3"] = {
+        label = "weed_seed3",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weed_seed3.png"
+    },
+    ["weed_seed4"] = {
+        label = "weed_seed4",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weed_seed4.png"
+    },
+    ["weed_seed5"] = {
+        label = "weed_seed5",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weed_seed5.png"
+    },
+    ["weed_seed6"] = {
+        label = "weed_seed6",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weed_seed6.png"
+    },
+    ["weed_seed7"] = {
+        label = "weed_seed7",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weed_seed7.png"
+    },
+    ["weed_skunk_bud"] = {
+        label = "weed_skunk_bud",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weed_skunk_bud.png"
+    },
+    ["weed_white-widow_bud"] = {
+        label = "weed_white-widow_bud",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weed_white-widow_bud.png"
+    },
+    ["weedbag"] = {
+        label = "weedbag",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weedbag.png"
+    },
+    ["weedbag_1"] = {
+        label = "weedbag_1",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weedbag_1.png"
+    },
+    ["weedbag_2"] = {
+        label = "weedbag_2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weedbag_2.png"
+    },
+    ["weedbag_3"] = {
+        label = "weedbag_3",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weedbag_3.png"
+    },
+    ["weedbud_1"] = {
+        label = "weedbud_1",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weedbud_1.png"
+    },
+    ["weedbud_2"] = {
+        label = "weedbud_2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weedbud_2.png"
+    },
+    ["weedbud_3"] = {
+        label = "weedbud_3",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weedbud_3.png"
+    },
+    ["weedleaf-1"] = {
+        label = "weedleaf-1",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weedleaf-1.png"
+    },
+    ["weedleaf-2"] = {
+        label = "weedleaf-2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weedleaf-2.png"
+    },
+    ["weedleaf-3"] = {
+        label = "weedleaf-3",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weedleaf-3.png"
+    },
+    ["weedscissors"] = {
+        label = "weedscissors",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weedscissors.png"
+    },
+    ["weedtable"] = {
+        label = "weedtable",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/weedtable.png"
+    },
+    ["white-widow-lb"] = {
+        label = "white-widow-lb",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/white-widow-lb.png"
+    },
+    ["white-widow-oz"] = {
+        label = "white-widow-oz",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/white-widow-oz.png"
+    },
+    ["xtc_baggy"] = {
+        label = "xtc_baggy",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/drugs/xtc_baggy.png"
+    },
+    ["22drag"] = {
+        label = "22drag",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/22drag.png"
+    },
+    ["akumac_new"] = {
+        label = "akumac_new",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/akumac.png"
+    },
+    ["bati701"] = {
+        label = "bati701",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/bati701.png"
+    },
+    ["bati901"] = {
+        label = "bati901",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/bati901.png"
+    },
+    ["bf900"] = {
+        label = "bf900",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/bf900.png"
+    },
+    ["bigdude"] = {
+        label = "bigdude",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/bigdude.png"
+    },
+    ["bmws"] = {
+        label = "bmws",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/bmws.png"
+    },
+    ["brt600"] = {
+        label = "brt600",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/brt600.png"
+    },
+    ["caponne6l"] = {
+        label = "caponne6l",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/caponne6l.png"
+    },
+    ["cbrr"] = {
+        label = "cbrr",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/cbrr.png"
+    },
+    ["cg160"] = {
+        label = "cg160",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/cg160.png"
+    },
+    ["chesterfield"] = {
+        label = "chesterfield",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/chesterfield.png"
+    },
+    ["chunkster"] = {
+        label = "chunkster",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/chunkster.png"
+    },
+    ["d99"] = {
+        label = "d99",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/d99.png"
+    },
+    ["doublec"] = {
+        label = "doublec",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/doublec.png"
+    },
+    ["enduromk2"] = {
+        label = "enduromk2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/enduromk2.png"
+    },
+    ["fmx"] = {
+        label = "fmx",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/fmx.png"
+    },
+    ["gstgravion1"] = {
+        label = "gstgravion1",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/gstgravion1.png"
+    },
+    ["hayabusa"] = {
+        label = "hayabusa",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/hayabusa.png"
+    },
+    ["hcbr17"] = {
+        label = "hcbr17",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/hcbr17.png"
+    },
+    ["hellspawn"] = {
+        label = "hellspawn",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/hellspawn.png"
+    },
+    ["hvrod"] = {
+        label = "hvrod",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/hvrod.png"
+    },
+    ["krust"] = {
+        label = "krust",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/krust.png"
+    },
+    ["kunoichi"] = {
+        label = "kunoichi",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/kunoichi.png"
+    },
+    ["kusa"] = {
+        label = "kusa",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/kusa.png"
+    },
+    ["lpbagger"] = {
+        label = "lpbagger",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/lpbagger.png"
+    },
+    ["lpchopper"] = {
+        label = "lpchopper",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/lpchopper.png"
+    },
+    ["manchezbw"] = {
+        label = "manchezbw",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/manchezbw.png"
+    },
+    ["mk2bati701"] = {
+        label = "mk2bati701",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/mk2bati701.png"
+    },
+    ["nh2r"] = {
+        label = "nh2r",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/nh2r.png"
+    },
+    ["nightblade2"] = {
+        label = "nightblade2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/nightblade2.png"
+    },
+    ["r1"] = {
+        label = "r1",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/r1.png"
+    },
+    ["r6"] = {
+        label = "r6",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/r6.png"
+    },
+    ["rc"] = {
+        label = "rc",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/rc.png"
+    },
+    ["saltflat"] = {
+        label = "saltflat",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/saltflat.png"
+    },
+    ["shinobio"] = {
+        label = "shinobio",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/shinobio.png"
+    },
+    ["shogunhr"] = {
+        label = "shogunhr",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/shogunhr.png"
+    },
+    ["slayer"] = {
+        label = "slayer",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/slayer.png"
+    },
+    ["sombrero"] = {
+        label = "sombrero",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/sombrero.png"
+    },
+    ["starfighter"] = {
+        label = "starfighter",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/starfighter.png"
+    },
+    ["stockholm"] = {
+        label = "stockholm",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/stockholm.png"
+    },
+    ["supersanchez"] = {
+        label = "supersanchez",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/supersanchez.png"
+    },
+    ["templar"] = {
+        label = "templar",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/templar.png"
+    },
+    ["tmax"] = {
+        label = "tmax",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/tmax.png"
+    },
+    ["tt750"] = {
+        label = "tt750",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/tt750.png"
+    },
+    ["verin"] = {
+        label = "verin",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/verin.png"
+    },
+    ["xp1"] = {
+        label = "xp1",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/xp1.png"
+    },
+    ["z1000"] = {
+        label = "z1000",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/z1000.png"
+    },
+    ["zx10"] = {
+        label = "zx10",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/motas/zx10.png"
     }
 }
