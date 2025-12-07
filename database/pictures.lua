@@ -4575,5 +4575,121 @@ return {
     ["bmw_99"] = {
         label = "bmw_99",
         image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/assets/bmw/bmw_99.png"
+    },
+    ["13080"] = {
+        label = "13080",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/13080.png"
+    },
+    ["16m4gts"] = {
+        label = "16m4gts",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/16m4gts.png"
+    },
+    ["20rocket3"] = {
+        label = "20rocket3",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/20rocket3.png"
+    },
+    ["23teslapf"] = {
+        label = "23teslapf",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/23teslapf.png"
+    },
+    ["BMWXM"] = {
+        label = "BMWXM",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/BMWXM.png"
+    },
+    ["GC_MUSTANGCOBRA"] = {
+        label = "GC_MUSTANGCOBRA",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/GC_MUSTANGCOBRA.png"
+    },
+    ["a90e"] = {
+        label = "a90e",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/a90e.png"
+    },
+    ["brickaderv"] = {
+        label = "brickaderv",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/brickaderv.png"
+    },
+    ["cararv"] = {
+        label = "cararv",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/cararv.png"
+    },
+    ["cyclone2c"] = {
+        label = "cyclone2c",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/cyclone2c.png"
+    },
+    ["fusiladev8"] = {
+        label = "fusiladev8",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/fusiladev8.png"
+    },
+    ["galaxyroamer"] = {
+        label = "galaxyroamer",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/galaxyroamer.png"
+    },
+    ["gstap1"] = {
+        label = "gstap1",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/gstap1.png"
+    },
+    ["gstcdt2"] = {
+        label = "gstcdt2",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/gstcdt2.png"
+    },
+    ["gsttac1"] = {
+        label = "gsttac1",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/gsttac1.png"
+    },
+    ["guardianrv"] = {
+        label = "guardianrv",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/guardianrv.png"
+    },
+    ["hoondasx"] = {
+        label = "hoondasx",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/hoondasx.png"
+    },
+    ["hotknifec"] = {
+        label = "hotknifec",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/hotknifec.png"
+    },
+    ["jester4c"] = {
+        label = "jester4c",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/jester4c.png"
+    },
+    ["m3demon"] = {
+        label = "m3demon",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/m3demon.png"
+    },
+    ["nspeedo_new"] = {
+        label = "nspeedo_new",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/nspeedo.png"
+    },
+    ["pyosemite1500"] = {
+        label = "pyosemite1500",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/pyosemite1500.png"
+    },
+    ["sandkingrv"] = {
+        label = "sandkingrv",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/sandkingrv.png"
+    },
+    ["sandroamer"] = {
+        label = "sandroamer",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/sandroamer.png"
+    },
+    ["saveirodbxJ"] = {
+        label = "saveirodbxJ",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/saveirodbxJ.png"
+    },
+    ["sr650fly"] = {
+        label = "sr650fly",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/sr650fly.png"
+    },
+    ["stratumx"] = {
+        label = "stratumx",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/stratumx.png"
+    },
+    ["supra98rz"] = {
+        label = "supra98rz",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/supra98rz.png"
+    },
+    ["yosemite3step"] = {
+        label = "yosemite3step",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/random/yosemite3step.png"
     }
 }
