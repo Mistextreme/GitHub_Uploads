@@ -1,7 +1,7 @@
 -- FiveManage Videos
 return {
-    ["grok_video_2025-12-07-13-47-43"] = {
-        label = "grok_video_2025-12-07-13-47-43",
+    ["grok_video_thisismist"] = {
+        label = "grok_video_thisismist",
         video = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/assets/images/Grok/2025/12/07/grok_video_2025-12-07-13-47-43.mp4"
     },
     ["grok_video_2025-12-07-13-44-59"] = {
