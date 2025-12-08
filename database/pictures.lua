@@ -17479,7 +17479,13 @@ return {
     ["z190wb"] = {
         label = "z190wb",
         image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/images/Greenscreener/vehicles/Lore_2026/z190wb.png"
+    },
+    ["default"] = {
+        label = "default",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/default.png"
+    },
+    ["no_img"] = {
+        label = "no_img",
+        image = "https://raw.githubusercontent.com/Mistextreme/GitHub_Uploads/main/no_img.png"
     }
 }
-
--- 
